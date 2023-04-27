@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Mathematics.Editor", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InternalAPIEditorBridge.001", "Unity.InternalAPIEditorBridge.001.csproj", "{08EDD141-5F90-6475-6FE2-107CCFE8BEA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{F011C3B6-C3C3-AE2A-CC11-D7E8B44E7E43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -283,6 +285,10 @@ Global
 		{08EDD141-5F90-6475-6FE2-107CCFE8BEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08EDD141-5F90-6475-6FE2-107CCFE8BEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08EDD141-5F90-6475-6FE2-107CCFE8BEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F011C3B6-C3C3-AE2A-CC11-D7E8B44E7E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F011C3B6-C3C3-AE2A-CC11-D7E8B44E7E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F011C3B6-C3C3-AE2A-CC11-D7E8B44E7E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F011C3B6-C3C3-AE2A-CC11-D7E8B44E7E43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
